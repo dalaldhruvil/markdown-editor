@@ -1,0 +1,28 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "An online editor to convert markdown to formatted text with added features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongSoda/markdown-editor.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "redis": "^0.10.3",
+    "share": "0.6.3"
+  },
+  "author": "Imran Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strongSoda/markdown-editor/issues"
+  },
+  "homepage": "https://github.com/strongSoda/markdown-editor#readme"
+}
