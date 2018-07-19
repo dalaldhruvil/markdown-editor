@@ -22,3 +22,10 @@ Markdown is a lightweight markup language with plain text formatting syntax. It 
   5. Downloadable PDF
   6. User Authentication
   7. AWS Deployment
+
+```
+int a =45;
+
+cout<<a;
+
+```
